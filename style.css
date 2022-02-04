@@ -1,0 +1,33 @@
+body {
+    background-color: #2f3035;
+}
+
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    background: blue;
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background: red;
+    height: 40px;
+}
+
+main{
+    background: orange;
+    height: 400px;
+}
+
+footer {
+    background: green;
+    height: 100px;
+}
+
